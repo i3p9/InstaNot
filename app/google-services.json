@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "347022465800",
+    "firebase_url": "https://instanot-29beb.firebaseio.com",
+    "project_id": "instanot-29beb",
+    "storage_bucket": "instanot-29beb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347022465800:android:b2bf9025258b3c45b7eabd",
+        "android_client_info": {
+          "package_name": "com.example.instanot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347022465800-88c630qct5dan20oh96hbr520itqflmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instanot",
+            "certificate_hash": "564d441fbbe81f7183b5802c9039dd52bb1efee4"
+          }
+        },
+        {
+          "client_id": "347022465800-vcr2n0l8raej6rtakba177dktbevtj90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANq5w3qdy4WoJjMo0oAiL_MPUtRvDcdlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347022465800-vcr2n0l8raej6rtakba177dktbevtj90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
