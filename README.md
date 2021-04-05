@@ -12,5 +12,4 @@
 <br>2 - import the file google-service.json into your project
 
 Screenshots:
-
-![Instagram Clone](/assets/instagram-clone.png)
+<img src="https://user-images.githubusercontent.com/8825262/113576535-8c8ca400-9641-11eb-91aa-03740e69874b.png" width="1254" height="2094">
