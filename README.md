@@ -10,6 +10,9 @@
 <br>2 - Firebase Panel
 <br>1 - Create Firebase Project (https://console.firebase.google.com/);
 <br>2 - import the file google-service.json into your project
+<details>
+  <summary>Screenshots (warning: big)</summary>
+  
+  <img src="https://user-images.githubusercontent.com/8825262/113576535-8c8ca400-9641-11eb-91aa-03740e69874b.png" width="1003" height="1675">
 
-Screenshots:
-<img src="https://user-images.githubusercontent.com/8825262/113576535-8c8ca400-9641-11eb-91aa-03740e69874b.png" width="1003" height="1675">
+</details>
