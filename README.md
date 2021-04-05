@@ -1,6 +1,6 @@
-# InstagramApp
+# Instagram Clone
 
-<br><b>I have deleted google-services.json. Add yours</b>
+<br><b>I have deleted my unique google-services.json. Add yours</b>
 
 <br>Implementation Guide 
 <br>1 - Project
@@ -10,3 +10,7 @@
 <br>2 - Firebase Panel
 <br>1 - Create Firebase Project (https://console.firebase.google.com/);
 <br>2 - import the file google-service.json into your project
+
+Screenshots:
+
+![Instagram Clone](/assets/instagram-clone.png)
